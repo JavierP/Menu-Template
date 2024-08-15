@@ -1,2 +1,2 @@
 # Menu Template
- A template for menu project in godot
+ A template menu project in Godot
